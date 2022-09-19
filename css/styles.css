@@ -40,6 +40,7 @@ hr {
 
 p {
 	color: #40514E;
+	line-height: 2;
 }
 
 .underline {
@@ -59,8 +60,7 @@ p {
 }
 
 .middle-container {
-	margin-bottom: 100px;
-	margin-top: 100px;
+	margin: 100px 0;
 }
 
 .bottom-cloud {
@@ -78,7 +78,6 @@ p {
 	width: 65%;
 	margin: 100px auto;
 	text-align: left;
-	line-height: 2;
 }
 
 .dev-img {
@@ -142,13 +141,12 @@ p {
 
   }
 
-  .contact-me {
-	line-height: 2;
-	/*margin-top: 100px;
-	position: relative;
-	display: inline-block;*/
-  }
-
   .footer-link {
 	margin: auto 50px;
+  }
+
+  .outro {
+	padding-top: 10px;
+	width: 50%;
+	margin: auto;
   }
